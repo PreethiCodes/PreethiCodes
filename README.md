@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">👋 Hi, I'm Preethi P</h1>
+<h1 align="center">👋 Hi, I'm Preethi P S</h1>
 
 ## 🧑‍💻 About Me
 Hi, I'm Preethi  
