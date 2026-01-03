@@ -21,7 +21,8 @@ I'm currently deepening my skills in cloud architectures, full-stack development
 ---
 ## 🌟 My GitHub Contribution Journey
 
-<img src="https://ghchart.rshah.org/00aaff/PreethiCodes" alt="Contribution Calendar" width="95%"/>
+<img src="https://ghchart.rshah.org/5a7d9a/PreethiCodes" alt="Contribution Calendar" width="95%"/>
+
 
 </div>
 ### 🔥 Streak Statistics
