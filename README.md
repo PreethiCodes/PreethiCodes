@@ -7,7 +7,7 @@ Hi, I'm Preethi
 - 💻 Currently focusing on **Full-Stack Development, AI, ML, Data Science**  
 - 🚀 Building projects to enhance my skills in applications, automation, and data analysis  
 - 📂 Explore my repositories for real-world implementations  
-- 📧 Connect with me: **your-email@gmail.com**  
+- 📧 Connect with me: **pspreethi05@gmail.com**  
 - 🎯 Career goal: Solving real-world problems using tech  
 
 ---
