@@ -25,10 +25,10 @@ I'm currently deepening my skills in cloud architectures, full-stack development
 <img src="https://ghchart.rshah.org/5a7d9a/PreethiCodes" alt="Contribution Calendar" width="95%"/>
 
 ### 🔥 Streak Statistics
-[<p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreethiCodes&theme=tokyonight&hide_border=true"/>
-</p>](https://github-readme-streak-stats.herokuapp.com/?user=PreethiCodes&theme=dark&hide_border=true
-)
+</p>
+
 
 ---
 
