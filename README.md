@@ -1,7 +1,6 @@
 # Hi there! 👋 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=I'm+Preethi;Back+End+Developer;)](https://git.io/typing-svg)
-
 ---
 
 ## 🚀 About Me
